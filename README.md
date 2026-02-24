@@ -5,9 +5,7 @@
 This project analyzes real-world retail scanner data to understand how pricing strategies, promotional activities, and customer behavior influence the market share of a consumer goods brand.
 
 The analysis also develops predictive models to forecast future market share trends and support data-driven business decisions.
-## Forecasting Result
 
-![Forecast Plot](images/Forecast market share for the next 5 weeks.png)
 ---
 
 ## Business Objectives
